@@ -25,6 +25,7 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-2966CE?style=for-the-badge&logo=vagrant&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br /><br />
 
 ## Meus contatos 
