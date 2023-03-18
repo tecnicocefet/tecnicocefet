@@ -36,4 +36,7 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 
 <img align="right" alt="tux" height="150" style="border-radius:50px;" 
 src="https://bestanimations.com/media/penguins/2035943693linux-penguin-animation.gif#.ZBTDxs6BhX4.link">
+
+![Snake animation](https://github.com/tecnicocefet/tecnicocefet/blob/output/github-contribution-grid-snake.svg)
+
 </div>
