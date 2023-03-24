@@ -15,7 +15,7 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 ![Windows Server](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-2966CE?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Zabbix](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 ## Tecnologias que estou estudando atualmente 📚
@@ -26,6 +26,7 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/ZABBIX-%23FF0000.svg?style=for-the-badge&logoColor=white)
+
 
 <br /><br />
 
