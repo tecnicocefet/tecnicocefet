@@ -25,7 +25,7 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/ZABBIX-%23FF0000.svg?style=for-the-badge&logoColor=white)
+![Zabbix](https://img.shields.io/badge/ZABBIX-%23FF0000.svg?style=for-the-badge&logoColor=white)
 
 
 <br /><br />
