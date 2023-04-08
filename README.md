@@ -27,6 +27,7 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/ZABBIX-%23FF0000.svg?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 <br /><br />
