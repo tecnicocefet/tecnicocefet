@@ -56,3 +56,9 @@ src="https://bestanimations.com/media/penguins/2035943693linux-penguin-animation
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
