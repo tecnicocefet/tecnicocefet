@@ -47,10 +47,12 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+
+```
 npm install
 
 npm run dev:demo
-
+```
 
 
 <img align="right" alt="tux" height="150" style="border-radius:50px;" 
