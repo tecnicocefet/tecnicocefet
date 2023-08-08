@@ -38,7 +38,7 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarlos-devops/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tecnicocefet@gmail.com)
 
-![Snake animation](https://github.com/tecnicocefet/tecnicocefet/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{tecnicocefet}}/{{tecnicocefet}}/blob/output/github-contribution-grid-snake.svg)
 
 
 <img align="right" alt="tux" height="150" style="border-radius:50px;" 
