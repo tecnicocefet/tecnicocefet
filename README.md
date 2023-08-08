@@ -48,11 +48,6 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 </picture>
 
 
-```
-npm install
-
-npm run dev:demo
-```
 
 
 <img align="right" alt="tux" height="150" style="border-radius:50px;" 
