@@ -39,7 +39,6 @@ Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo co
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tecnicocefet@gmail.com)
 
 ![Snake animation](https://github.com/tecnicocefet/tecnicocefet/blob/output/github-contribution-grid-snake.svg)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 
 
 <picture>
