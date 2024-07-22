@@ -2,7 +2,7 @@
 
 ### Seja bem vindo ao meu perfil aqui no Github 👋<br />
 
-Tenho 23 anos de experiência em TI atuando na área de Suporte a Infraestrutura e Atendimento.<br />
+Tenho 25 anos de experiência em TI atuando na área de Suporte a Infraestrutura e Atendimento.<br />
 Venho me dedicando atualmente ao estudo da cultura e ferramentas DevOps tendo como objetivo construir ambientes de alta disponibilidade e escalabilidade que entreguem valor ao cliente.<br /><br />
 
 
